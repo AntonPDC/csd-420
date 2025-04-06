@@ -1,0 +1,7 @@
+{
+  "java.debug.settings.onBuildFailureProceed": true,
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "/Library/Java/JavaVirtualMachines/javafx-sdk-24/lib/**/*.jar"
+  ]
+}

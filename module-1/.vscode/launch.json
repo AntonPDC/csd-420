@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "DeCesareMod_1_1",
+      "request": "launch",
+      "mainClass": "com.example/com.example.DeCesareMod_1_1",
+      "projectName": "demo"
+    },
+    {},
+    {
+      "type": "java",
+      "name": "DeCesareMod_1_1",
+      "request": "launch",
+      "mainClass": "com.example/com.example.DeCesareMod_1_1",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-24 --add-modules javafx.controls,javafx.fxml",
+      "projectName": "demo"
+    }
+  ]
+}
