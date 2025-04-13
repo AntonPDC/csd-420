@@ -1,19 +1,18 @@
-/*
+/**
  * Anton DeCesare mod 5.2
  * This Java program reads a text file named collection_of_words.txt,
  *  extracts all unique words by removing duplicates and punctuation,
  *  and stores them in a HashSet. It then displays the words in both ascending (A–Z)
  *  and descending (Z–A) order.
  *
- */
-
+ **/
 
 import java.io.*;
 import java.util.*;
 
 public class DeCesare_mod_5_2 {
     public static void main(String[] args) {
-        // File name (should be in the same folder as your .java file)
+        // File name
         String filename = "collection_of_words.txt";
 
         // Use a HashSet to store words without duplicates
